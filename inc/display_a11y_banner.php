@@ -62,7 +62,7 @@ function display_a11y_banner()
                       </div>
                       <div class="form-check form-switch col-md-1 ms-auto">
                         <input class="form-check-input useHighContrast" type="checkbox" role="switch"
-                          id="flexSwitchCheckChecked">
+                          id="useHighContrast">
                       </div>
                     </div>
                     <hr>
@@ -83,7 +83,7 @@ function display_a11y_banner()
                         <small style="font-size: 10px !important;">Decrease</small><br>
                       </div>
                       <div>
-                        <label for="fontSize">Font Size</label>
+                        <p>Font Size</p>
                       </div>
                       <div>
                         <button id="increaseFontSize" class="font-size-button" style="font-size: 24px !important;">A</button>
